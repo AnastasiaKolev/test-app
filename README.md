@@ -8,5 +8,5 @@ This application is designed to read numbers from files and creating a console E
    ```
    mvn clean install
    
-   Run the application with optional args[0] parameter, which stands for test.txt or any other file in the project
+   Run the application with args[0] parameter, which stands for test.txt or any other file in the project
    ```
